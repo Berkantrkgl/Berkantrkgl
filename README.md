@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Berkan Turkoglu
+#### Backend Development
+Hello again. I'm Berkan. I am a Turkish-German University student and I am improving myself in the field of software. I mainly worked with Java, Spring and SQL. Currently, I am actively developing myself on Python, AWS Cloud and algorithms.
 
-<!--
-**Berkantrkgl/Berkantrkgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: JAVA / SPRING / SQL / AWS / PYTHON / GIT
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Python, AWS-Cloud and Frontend basics 
+- 📫 How to reach me: berkan.trkgl35@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Berkantrkgl)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/berkanturkoglu//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/trkgl_berkan)  
+
