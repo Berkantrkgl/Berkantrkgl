@@ -5,7 +5,7 @@ Hi !! I'm Berkan. I am a Turkish-German University student and I am improving my
 Skills: JAVA / SPRING / SQL / AWS / PYTHON / GIT
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Python, AWS-Cloud and Frontend basics 
+- 🌱 I’m currently learning Python,Django, AWS-Cloud and Frontend basics 
 - 📫 How to reach me: berkan.trkgl35@gmail.com 
 
 
