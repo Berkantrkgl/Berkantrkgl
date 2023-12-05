@@ -2,7 +2,7 @@
 #### Backend Development
 Hi !! I'm Berkan. I am a Turkish-German University student and I am improving myself in the field of software. I mainly worked with Java, Spring and SQL. Currently, I am actively developing myself on Python, AWS Cloud and algorithms.
 
-Skills: JAVA / SPRING / SQL / AWS / PYTHON / GIT
+Skills: JAVA / SPRING / SQL / AWS / PYTHON / GIT / JAVASCRIPT / HTML-CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Python,Django, AWS-Cloud and Frontend basics 
