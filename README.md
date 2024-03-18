@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Berkan Turkoglu
 #### Backend Development
-Hi !! I'm Berkan. I am a Turkish-German University student and I am improving myself in the field of software. I mainly worked with Java, Spring and SQL. Currently, I am actively developing myself on Python, AWS Cloud and algorithms.
+Hello, I am Berkan Turkoglu. I am a 4th year student at the Turkish-German University in Istanbul. I'm interested in web development. During my software development training at school; I had the opportunity to work with Java, Python and Javascript. I was mostly interested in Backend development.
 
-Skills: JAVA / SPRING / SQL / AWS / PYTHON / GIT / JAVASCRIPT / HTML-CSS
+Skills: Javascript / Nodejs / Python / Java / Sql / Git / Django / Spring Boot / Html-Css
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Python,Django, AWS-Cloud and Frontend basics 
+- 🌱 I’m currently learning Javascript, Nodejs and React 
 - 📫 How to reach me: berkan.trkgl35@gmail.com 
 
 
