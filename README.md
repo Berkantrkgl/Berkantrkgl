@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Berkan Turkoglu
-#### Cloud Engineer 
+#### Software Engineer 
 
 Hello, I am Berkan Turkoglu. I graduated from the Turkish-German University in Istanbul and I am currently working as a **Cloud Engineer** at a consultancy firm. 
 
