@@ -7,7 +7,7 @@ I am Berkan Turkoglu, currently working as a **Cloud Engineer** at a consultancy
 
 - **Cloud & DevOps:** AWS (Solution Architect Pro level), Docker, Kubernetes, EKS
 - **AI & Data:** Python, LangGraph (Agentic Workflows), Chatbot Development
-- **Backend:** Python, Django, SQL, Git
+- **Backend:** Python, Django, SQL, Git, Spring Boot (Working on it)
 - **Frontend & Mobile:** React, React Native, Javascript, HTML/CSS
 
 ---
