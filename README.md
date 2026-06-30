@@ -1,6 +1,6 @@
 # Hi, I'm Berkan 👋
 
-**Backend & Cloud Engineer · AWS Certified (Solutions Architect Professional)**
+**Backend & Cloud Engineer**
 
 I build and ship production systems on AWS — REST APIs, containerized services
 on ECS/EKS, and AI-driven features powered by LangGraph & AWS Bedrock.
