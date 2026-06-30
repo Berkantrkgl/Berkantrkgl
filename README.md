@@ -5,7 +5,7 @@
 I build and ship production systems on AWS — REST APIs, containerized services
 on ECS/EKS, and AI-driven features powered by LangGraph & AWS Bedrock.
 Currently moving deeper into **Java & Spring Boot**, the stack I'm building my
-next chapter around. Based in Istanbul 🇹🇷
+next chapter around.
 
 ---
 
